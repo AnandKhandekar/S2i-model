@@ -1,3 +1,20 @@
-#Model 101
-## Students 2 Intern
-this is the face of the S2i Program
+![](https://github.com/AnandKhandekar/S2i-model/blob/main/img02.JPG)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1>Student-2-Intern</h1>
+<p>Transform 101</p>
+<div>This is a div.</div>
+
+</body>
+</html>
+
+
