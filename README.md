@@ -23,11 +23,11 @@
 
 The Running Profesor (TRP) 
 
-**1-Statistics**
+## **1-Statistics**
 
 >> add numbers here
 
-**2-Exposure**
+## **2-Exposure**
 >  international exposure
 
 **3-Eligibility**
@@ -48,8 +48,8 @@ The Running Profesor (TRP)
 **7-Duration**
 >  this is in DURATION
 
-**8-Methodology**
+## **8-Methodology**
 >this is a paragraph in Methodology
 >
 
-**Task**: Sum of Numbers
+## **Task**: Sum of Numbers
