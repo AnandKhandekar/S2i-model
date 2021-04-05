@@ -12,6 +12,14 @@
 * [**7-Duration**](#duration)
 * [**8-Methodology**](#methodology-six)
 ---
+- [Python Sequences](#python-sequences)
+- [Python for Loop](#python-for-loop-1)
+- [Looping Through a List](#looping-through-a-list)
+- [Python range()](#python-range)
+- [**Example**: Multiplication Table](#example-multiplication-table)
+- [**Task**: Sum of Numbers](#programming-task)
+---
+
 
 The Running Profesor (TRP) 
 
@@ -42,3 +50,6 @@ The Running Profesor (TRP)
 
 **8-Methodology**
 >this is a paragraph in Methodology
+>
+
+**Task**: Sum of Numbers
