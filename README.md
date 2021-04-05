@@ -1,4 +1,4 @@
-![](https://github.com/AnandKhandekar/S2i-model/blob/main/img02.JPG)
+![](https://github.com/AnandKhandekar/S2i-model/blob/main/img02.JPG "front image")
 <!DOCTYPE html>
 <html>
 <head>
