@@ -1,7 +1,7 @@
 <p align="center">
-    # Model One
-</p
+    #Model One
+</p>
 
 <p align="center">
-  <img width="200" src="https://github.com/AnandKhandekar/S2i-model/blob/main/img02.JPG" alt="front page image">
+  <img src="https://github.com/AnandKhandekar/S2i-model/blob/main/img02.JPG" alt="front page image">
 </p>
